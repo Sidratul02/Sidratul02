@@ -31,7 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidratul02&show_icons=true&locale=en" alt="sidratul02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidratul02&" alt="sidratul02" /></p>
-## Hi there 👋
 
 <!--
 **Sidratul02/Sidratul02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
