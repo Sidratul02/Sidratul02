@@ -9,10 +9,6 @@ I'm Sidratul — a web craftsman & AI dreamer trying to write code that doesn’
 ![Quote](https://img.shields.io/badge/Refactor%20now--cry%20less%20later-black?style=for-the-badge&logo=github&color=00CED1)
 
 
-
-<h2 align="center">🏅 My Hacktoberfest 2025 Badges</h2>
-[![An image of @sidratul02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sidratul02)](https://holopin.io/@sidratul02)
-
 - 📍 Based in India
 
 
